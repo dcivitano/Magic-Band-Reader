@@ -18,12 +18,12 @@ The purpose of this project is to automate control of other devices utilizing a 
 ### Actual Use:
 
 ## Getting Started
-It will be helpful but not necessary if you have a basic level of programming experience as well as a little experience programming Arduino micro controllers. This project was created using the Aurduino IDE. Clone or download this repository at your own risk.
-
-You can download the 3D printable magic band casing on Thingiverse:
 
 * **This project was built using an Arduino Mega. Should you attempt to change this to an Uno or otherwise you do so at YOUR OWN RISK.**
 
+It will be helpful but not necessary if you have a basic level of programming experience as well as a little experience programming Arduino micro controllers. This project was created using the Aurduino IDE. Clone or download this repository at your own risk.
+
+You can download the 3D printable magic band casing on Thingiverse:
 
 [Thingiverse Disney World MagicBand reader v2](https://www.thingiverse.com/thing:4460759)
 
