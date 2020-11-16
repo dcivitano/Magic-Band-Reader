@@ -53,4 +53,16 @@ Successful installation will result in the RFID reader being able to read a magi
 
 ![breadboard_diagram](images/finishedcircuit.png)
 
+## BOM
+
+Most components can be found on [Amazon](https://www.amazon.com/) or [AliExpress](https://www.aliexpress.com/)
+* Arduino (mega, uno, nano etc.)
+* Mini MP3 Audio module ([DFPlayer-mini](https://www.amazon.com/gp/product/B07Y2YKYRS/ref=ppx_yo_dt_b_asin_image_o06_s00?ie=UTF8&psc=1)) 
+* 5V relay standard arduino ([relay](https://www.amazon.com/gp/product/B07BVXT1ZK/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1 ))
+* jumper wires both male to male and male to female
+* LED strip (NeoPixel or other brand)
+* 1 K ohm resistor
+* Speaker
+* RFID reader (Rc255-FROM [ALI EXPRESS](https://www.aliexpress.com/item/1005001543022507.html?spm=a2g0o.productlist.0.0.2228e5c2ludWkE&algo_pvid=4a07b899-7219-49a6-9ee4-7fc097820709&algo_expid=4a07b899-7219-49a6-9ee4-7fc097820709-12&btsid=0bb0623c16053672112166469e25d3&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_ ))
+*
 
