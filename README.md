@@ -11,11 +11,24 @@ The purpose of this project is to automate control of other devices utilizing a 
 [1.1]: images/instagram.png (Instagram - dominick_civitano)
 [2.1]: images/github.png (Github - dcivitano)
 [3.1]: images/tiktok.png (Tiktok - domthebuilder)
+[4.1]: images/MBR1.png (video1)
+[5.1]: images/MBR2.png (video2)
+[6.1]: images/MBR3.png (video3)
+[7.1]: images/MBR4.png (video4)
 [1]: https://www.instagram.com/dominick_civitano/
 [2]: https://www.github.com/dcivitano/
 [3]: https://www.tiktok.com/@domthebuilder
+[4]: https://www.youtube.com/watch?v=xcsDWAmd3SA
+[5]: https://www.youtube.com/watch?v=N-M03rtk2xM
+[6]: https://www.youtube.com/watch?v=G5IX_6UYfng
+[7]: https://www.youtube.com/watch?v=WFyDRV0GOis
 
 ### Actual Use:
+
+[![alt text][4.1]][4]
+[![alt text][5.1]][5]
+[![alt text][6.1]][6]
+[![alt text][7.1]][7]
 
 ## Getting Started
 
