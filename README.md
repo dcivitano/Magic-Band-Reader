@@ -64,6 +64,6 @@ Most components can be found on [Amazon](https://www.amazon.com/) or [AliExpress
 * 1 K ohm ([resistor](https://www.amazon.com/Projects-100EP5121K00-Ohm-Resistors-Pack/dp/B0185FIJ9A/ref=sr_1_3?dchild=1&keywords=1k+ohm+resistor&qid=1605366999&sr=8-3 ))
 * [Speaker](https://www.amazon.com/Yootop-Internal-Magnet-Loudspeaker-Speaker/dp/B07FMR5JGX/ref=sr_1_4?crid=2K87N6KVKY9V2&dchild=1&keywords=speaker+arduino&qid=1605367054&sprefix=speaker+arduin%2Caps%2C143&sr=8-4 )
 * RFID reader (Rc255-FROM [ALI EXPRESS](https://www.aliexpress.com/item/1005001543022507.html?spm=a2g0o.productlist.0.0.2228e5c2ludWkE&algo_pvid=4a07b899-7219-49a6-9ee4-7fc097820709&algo_expid=4a07b899-7219-49a6-9ee4-7fc097820709-12&btsid=0bb0623c16053672112166469e25d3&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_ ))
-* Extension cord
-* Breadboard
+* [Extension cord](https://www.amazon.com/dp/B000Q68W2G/ref=twister_B08JSFTBZ1?_encoding=UTF8&psc=1)
+* [Breadboard](www.amazon.com/Breadboards-Solderless-Breadboard-Distribution-Connecting/dp/B07DL13RZH/ref=sr_1_3?dchild=1&keywords=breadboard&qid=1605368580&sr=8-3 )
 
