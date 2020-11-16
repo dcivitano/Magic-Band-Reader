@@ -52,3 +52,5 @@ Successful installation will result in the RFID reader being able to read a magi
 ## Breadboard Diagram
 
 ![breadboard_diagram](images/finished circuit.png)
+
+
