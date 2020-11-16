@@ -6,6 +6,12 @@ The purpose of this project is to automate control of other devices utilizing a 
 
 ## Follow Me
 
-[![alt text][1.1]][1]  [![alt text][2.1]][2]
+[![alt text][1.1]][1]  [![alt text][2.1]][2]  [![alt text][3.1]][3]
 
-[1.1]: images/instagram.png (Instagram -dominick_civitano)
+[1.1]: images/instagram.png (Instagram - dominick_civitano)
+[2.1]: images/github.png (Github - dcivitano)
+[3.1]: images/tiktok.jpg (Tiktok - domthebuilder)
+[1]: https://www.instagram.com/dominick_civitano/
+[2]: https://www.github.com/dcivitano/
+[3]: https://www.tiktok.com/@domthebuilder
+
