@@ -67,6 +67,10 @@ Successful installation will result in the RFID reader being able to read a magi
 
 ## Breadboard Diagram
 
+* **For high resolution images open up the following files above:**
+* MBRHR.png
+* outlet.png
+
 ![breadboard_diagram](images/finishedcircuit.png)
 
 ## BOM
