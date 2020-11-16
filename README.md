@@ -78,3 +78,11 @@ Most components can be found on [Amazon](https://www.amazon.com/) or [AliExpress
 ## Authors
 
 * **Dominick Civitano**
+
+## Liscence
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+## Acknowledgements
+
+* [dominick_civitano](https://www.instagram.com/dominick_civitano/)
