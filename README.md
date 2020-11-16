@@ -15,3 +15,31 @@ The purpose of this project is to automate control of other devices utilizing a 
 [2]: https://www.github.com/dcivitano/
 [3]: https://www.tiktok.com/@domthebuilder
 
+### Actual Use:
+
+## Getting Started
+It will be helpful but not necessary if you have a basic level of programming experience as well as a little experience programming Arduino micro controllers. This project was created using the Aurduino IDE. Clone or download this repository at your own risk.
+
+You can download the 3D printable magic band casing on Thingiverse:
+
+Link: [Thingiverse Disney World MagicBand reader v2] (https://www.thingiverse.com/thing:4460759)
+
+### Prerequisites
+* Some experience with [Arduino](https://www.arduino.cc/)
+
+* Be sure to have the Arduino board installed in your environment.
+* Install the [Adafruit_Neopixel] (https://github.com/adafruit/Adafruit_NeoPixel) library
+* Install the [SoftwareSerial] (https://github.com/PaulStoffregen/SoftwareSerial) library
+* Install the [DFRobotDFPlayerMini] (https://github.com/DFRobot/DFPlayer-Mini-mp3) library
+* An Arduino
+* A 1K resistor
+* A 5V arduino relay
+* A Neopixel LED strip
+* A RFID reader
+* A DFPlayer Mini
+* An AC extension cord (preferably a single outlet)
+* A speaker
+
+(See BOM below for details)
+
+
