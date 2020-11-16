@@ -28,9 +28,9 @@ Link: [Thingiverse Disney World MagicBand reader v2] (https://www.thingiverse.co
 * Some experience with [Arduino](https://www.arduino.cc/)
 
 * Be sure to have the Arduino board installed in your environment.
-* Install the [Adafruit_Neopixel] (https://github.com/adafruit/Adafruit_NeoPixel) library
-* Install the [SoftwareSerial] (https://github.com/PaulStoffregen/SoftwareSerial) library
-* Install the [DFRobotDFPlayerMini] (https://github.com/DFRobot/DFPlayer-Mini-mp3) library
+* Install the [Adafruit_Neopixel](https://github.com/adafruit/Adafruit_NeoPixel) library
+* Install the [SoftwareSerial](https://github.com/PaulStoffregen/SoftwareSerial) library
+* Install the [DFRobotDFPlayerMini](https://github.com/DFRobot/DFPlayer-Mini-mp3) library
 * An Arduino
 * A 1K resistor
 * A 5V arduino relay
