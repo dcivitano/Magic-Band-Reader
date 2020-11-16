@@ -22,7 +22,7 @@ It will be helpful but not necessary if you have a basic level of programming ex
 
 You can download the 3D printable magic band casing on Thingiverse:
 
-Link: [Thingiverse Disney World MagicBand reader v2] (https://www.thingiverse.com/thing:4460759)
+Link: [Thingiverse Disney World MagicBand reader v2](https://www.thingiverse.com/thing:4460759)
 
 ### Prerequisites
 * Some experience with [Arduino](https://www.arduino.cc/)
