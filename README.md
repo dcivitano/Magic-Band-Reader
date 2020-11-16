@@ -25,7 +25,7 @@ You can download the 3D printable magic band casing on Thingiverse:
 * **This project was built using an Arduino Mega. Should you attempt to change this to an Uno or otherwise you do so at YOUR OWN RISK.**
 
 
-Link: [Thingiverse Disney World MagicBand reader v2](https://www.thingiverse.com/thing:4460759)
+[Thingiverse Disney World MagicBand reader v2](https://www.thingiverse.com/thing:4460759)
 
 ### Prerequisites
 * Some experience with [Arduino](https://www.arduino.cc/)
