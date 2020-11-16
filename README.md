@@ -67,3 +67,14 @@ Most components can be found on [Amazon](https://www.amazon.com/) or [AliExpress
 * [Extension cord](https://www.amazon.com/dp/B000Q68W2G/ref=twister_B08JSFTBZ1?_encoding=UTF8&psc=1)
 * [Breadboard](https://www.amazon.com/Breadboards-Solderless-Breadboard-Distribution-Connecting/dp/B07DL13RZH/ref=sr_1_3?dchild=1&keywords=breadboard&qid=1605368580&sr=8-3)
 
+## Built With
+
+* [Arduino](https://www.arduino.cc/)
+
+## Version
+
+* Version 1.0 (Use at your own risk)
+
+## Authors
+
+* **Dominick Civitano**
