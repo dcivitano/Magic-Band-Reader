@@ -42,4 +42,13 @@ Link: [Thingiverse Disney World MagicBand reader v2](https://www.thingiverse.com
 
 (See BOM below for details)
 
+### Installing
 
+1. In the Arduino IDE be sure to set the appropriate board (Arduino Nano) and ports to match your environment.
+2. Complile and load onto your Arduino following the Arduino IDE [instructions(https://www.arduino.cc/en/Guide)].
+
+Successful installation will result in the RFID reader being able to read a magic band which will be shown thru the arduino Serial Monitor. Code edits will be required to allow for successful access to your specific magic band for control of the outlet and a response from the reader with lights and sounds.
+
+## Breadboard Diagram
+
+![breadboard_diagram](images/finished circuit.png)
