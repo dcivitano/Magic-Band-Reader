@@ -40,6 +40,9 @@ You can download the 3D printable magic band casing on Thingiverse:
 
 [Thingiverse Disney World MagicBand reader v2](https://www.thingiverse.com/thing:4460759)
 
+Or you can try the new design that is more accurate to the parks linked here:
+[Magic band reader V3](https://www.thingiverse.com/thing:4663559)
+
 ### Prerequisites
 * Some experience with [Arduino](https://www.arduino.cc/)
 
